@@ -55,12 +55,9 @@ to various languages](https://21lessons.com/translations), including:
 * Brazilian Portuguese
 * Japanese
 * Greek
-* Persian
-* Indonesian
-* Italian
 
 The German print version of the book has a [separate
-repository](https://github.com/21-lessons/21-lessons-book-de), maintained by the
+repository](https://github.com/dergigi/21-lessons-book-de), maintained by the
 author.
 
 ## License
@@ -71,6 +68,6 @@ http://creativecommons.org/licenses/by-sa/4.0/.
 
 ---
 
-Created with 🧡 by [Gigi](https://dergigi.com/support/).
+Created with :heart: by [Gigi](https://dergigi.com/support/).
 
 [![tippin.me](https://badgen.net/badge/%E2%9A%A1%EF%B8%8Ftippin.me/@dergigi/F0918E)](https://tippin.me/@dergigi)
